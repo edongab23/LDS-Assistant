@@ -29,7 +29,12 @@ An AI-powered tool for creating LDS talks, lessons, and doctrinal explanations f
 ## Prerequisites
 - Python 3.x
 - Ollama installed and running
-- Required Python packages: `requests`, `beautifulsoup4`, `python-docx`, `ollama`
+
+## Installation
+1. Clone this repository
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 1. Ensure Ollama is running with your preferred models
